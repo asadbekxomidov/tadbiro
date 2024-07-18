@@ -1,0 +1,12 @@
+{
+    "pochta": "Email",
+    "pochtaValidator": "Please enter your email",
+    "parol": "Password",
+    "parolValidator": "Please enter your password",
+    "kirish": "Login",
+    "resetPassword": "Reset password",
+    "ro'yxatdan o'tish": "Register",
+    "error": "Error",
+    "emailExists": "Email already exists"
+  }
+  

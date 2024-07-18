@@ -1,0 +1,11 @@
+{
+  "pochta": "Pochta",
+  "pochtaValidator": "Pochta qaytadan kiriting",
+  "parol": "Parol",
+  "parolValidator": "Parolni qaytadan kiriting",
+  "kirish": "Kirish",
+  "resetPassword": "Parolni tiklash",
+  "ro'yxatdan o'tish": "Ro'yxatdan o'tish",
+  "error": "Xato",
+  "emailExists": "Email allaqachon mavjud"
+}

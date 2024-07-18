@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622425065155",
+    "project_id": "tadbiro-imtihon4",
+    "storage_bucket": "tadbiro-imtihon4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622425065155:android:a92bf69dbfab165cd98476",
+        "android_client_info": {
+          "package_name": "com.example.tadbiro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbaXkUJSEZTDC8WAXbndH9eFbD5B6Mbn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
